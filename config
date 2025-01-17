@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/TheHappyCatSensei/flutflix-tutorial-starter.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "completed"]
+	remote = origin
+	merge = refs/heads/completed
+	vscode-merge-base = origin/master
