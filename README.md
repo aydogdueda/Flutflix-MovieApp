@@ -1,4 +1,9 @@
 # flutflix
+# Video
+https://www.youtube.com/watch?v=yizvY0muSdM
+
+# Slides
+
 
 A new Flutter project.
 
